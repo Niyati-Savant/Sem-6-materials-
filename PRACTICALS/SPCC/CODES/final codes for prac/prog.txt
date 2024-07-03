@@ -1,0 +1,5 @@
+for owl_007 in range ( 20 ):
+    if owl_007 % 2 == 0 :
+        print (" \t Even")
+    else :
+        print ("Odd")
